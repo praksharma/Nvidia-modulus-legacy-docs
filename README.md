@@ -4,7 +4,7 @@ Date : 2nd May 2023, Tuesday
 
 As NVIDIA Modulus is transitioning from a [restrictive license](LICENSE.pdf) to Apache License 2.0, I am afraid that they'll ditch the legacy documentation. So, I used the good old `wget` to grab the entire documentation website.
 
-## What are HTML files
+## What are HTML files?
 If have no idea what the heck is HTML files then continue to read this section. These files are used by the web browser to render websites. Here is an example of a html page : https://docs.nvidia.com/modulus/index.html
 
 ## Easily open HTML files from Github
