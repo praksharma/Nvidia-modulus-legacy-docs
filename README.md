@@ -4,6 +4,8 @@ Date : 2nd May 2023, Tuesday
 
 As NVIDIA Modulus is transitioning from a [restrictive license](LICENSE.pdf) to Apache License 2.0, I am afraid that they'll ditch the legacy documentation. So, I used the good old `wget` to grab the entire documentation website.
 
+This repo also contains the NVIDIA Modulus Python venv. You can read [this file](v22.03%20python%20venv/README.md) for further instructions.
+
 ## What are HTML files?
 If have no idea what the heck is HTML files then continue to read this section. These files are used by the web browser to render websites. Here is an example of a html page : https://docs.nvidia.com/modulus/index.html
 
