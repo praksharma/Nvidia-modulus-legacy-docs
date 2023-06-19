@@ -28,3 +28,7 @@ export LD_LIBRARY_PATH=$(pwd)/:${LD_LIBRARY_PATH}
 ```
 
 Now activate the environment and enjoy fully-working NVIDIA Modulus v22.03.
+
+```sh
+source modulus_pysdf/bin/activate
+```
