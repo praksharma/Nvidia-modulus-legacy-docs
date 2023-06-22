@@ -38,5 +38,12 @@ wget -r -p -U Mozilla --wait=10 --limit-rate=35K https://docs.nvidia.com/deeplea
 
 The `--wait` is in seconds. [Here](https://www.makeuseof.com/tag/how-do-i-download-an-entire-website-for-offline-reading/) is a blog talking about the GUI alternatives.
 
+## NVIDIA Modulus deleted docs
+Date: 22 June 2023
+
+Wonderful. It looks like NVIDIA has already deleted [some parts](https://docs.nvidia.com/deeplearning/modulus/api/modulus.deploy.html) of the docs. Especially, the instructions to run their example in a Jupyter notebook. Unfortunately, it isn't available on the WayBack Machine either.
+
+NGL after a heated argument with ChatGPT I finally managed to recreate relevant codes. [Here](jupyter_notebook.ipynb), You can find the jupyter notebook.
+
 ## LICENSE
 These docs were released under some [fancy license](LICENSE.pdf). So, yeah I am not the owner of these docs and you may not redistribute them unless you wanted to be sued by the NVIDIA.
