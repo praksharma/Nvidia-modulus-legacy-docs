@@ -1,5 +1,9 @@
 # Nvidia Modulus Legacy Docs
 
+The docs are available on WayBack Machine.
+
+https://web.archive.org/web/20230327210058/https://docs.nvidia.com/deeplearning/modulus/user_guide/notebook/notebook.html
+
 Date : 2nd May 2023, Tuesday
 
 As NVIDIA Modulus is transitioning from a [restrictive license](LICENSE.pdf) to Apache License 2.0, I am afraid that they'll ditch the legacy documentation. So, I used the good old `wget` to grab the entire documentation website.
@@ -44,6 +48,10 @@ Date: 22 June 2023
 Wonderful. It looks like NVIDIA has already deleted [some parts](https://docs.nvidia.com/deeplearning/modulus/api/modulus.deploy.html) of the docs. Especially, the instructions to run their example in a Jupyter notebook. Unfortunately, it isn't available on the WayBack Machine either.
 
 NGL after a heated argument with ChatGPT I finally managed to recreate relevant codes. [Here](jupyter_notebook.ipynb), You can find the jupyter notebook.
+
+Date:  22 June 2023
+
+That one is also not working. I finally found the docs on WayBackMachine. The webpage is saved here: `v22.09 docs/Jupyter Notebook workflow - NVIDIA Docs.html`.
 
 ## LICENSE
 These docs were released under some [fancy license](LICENSE.pdf). So, yeah I am not the owner of these docs and you may not redistribute them unless you wanted to be sued by the NVIDIA.
