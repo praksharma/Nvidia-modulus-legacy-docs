@@ -54,4 +54,4 @@ Date:  22 June 2023
 That one is also not working. I finally found the docs on WayBackMachine. The webpage is saved here: `v22.09 docs/Jupyter Notebook workflow - NVIDIA Docs.html`.
 
 ## LICENSE
-These docs were released under some [fancy license](LICENSE.pdf). So, yeah I am not the owner of these docs and you may not redistribute them unless you wanted to be sued by the NVIDIA.
+These docs were released under some [fancy license](LICENSE.pdf). I am simply reusing that license.
